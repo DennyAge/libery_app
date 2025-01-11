@@ -4,48 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9faff2-abea-42cc-9a89-b09023c03a08" name="Changes" comment="start project">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BookCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BookCover.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BookCoverSvg.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BookList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BookOverview.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/book.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/bookmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/edit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/trash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/admin/users.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/book.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/logout.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/search-fill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/upload.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/user-fill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/auth-illustration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pattern.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+    <list default="true" id="db9faff2-abea-42cc-9a89-b09023c03a08" name="Changes" comment="Home page">
+      <change afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(auth)/sing-in/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(auth)/sing-up/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ImageUpload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/validations.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +26,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DennyAge"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DennyAge/libery_app.git",
+    "accountId": "757ea5e7-ccfc-4b9b-9ee3-128d2cb2b5fa"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -121,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736589030629</updated>
-      <workItem from="1736589031764" duration="8805000" />
+      <workItem from="1736589031764" duration="13049000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <option name="closed" value="true" />
@@ -131,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736592656186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Home page">
+      <option name="closed" value="true" />
+      <created>1736597991572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736597991572</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start project" />
-    <option name="LAST_COMMIT_MESSAGE" value="start project" />
+    <MESSAGE value="Home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home page" />
   </component>
 </project>

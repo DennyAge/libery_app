@@ -12,7 +12,7 @@ function Header() {
     <header className="my-10 flex justify-between gap-5">
       <Link href="/" className="text-light-100">
         <Image src="/icons/logo.svg" alt="logo" width={40} height={40} />
-        BookLibrary
+        Book Library
       </Link>
 
       <ul className="flex flex-row items-center gap-8">
