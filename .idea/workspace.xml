@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db9faff2-abea-42cc-9a89-b09023c03a08" name="Changes" comment="start project">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookCover.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookCoverSvg.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BookOverview.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/admin/users.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/search-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/user-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/auth-illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pattern.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2rThZtyDOqza83qwNK6m6E34fxU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "/Users/denysaheienko/WebstormProjects/libery_app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "/Users/denysaheienko/WebstormProjects/libery_app/node_modules/eslint",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/denysaheienko/WebstormProjects/libery_app/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/denysaheienko/WebstormProjects/libery_app/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/(root)" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db9faff2-abea-42cc-9a89-b09023c03a08" name="Changes" comment="" />
+      <created>1736589030629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736589030629</updated>
+      <workItem from="1736589031764" duration="8805000" />
+    </task>
+    <task id="LOCAL-00001" summary="start project">
+      <option name="closed" value="true" />
+      <created>1736592656186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736592656186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start project" />
+    <option name="LAST_COMMIT_MESSAGE" value="start project" />
+  </component>
+</project>
