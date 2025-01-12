@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9faff2-abea-42cc-9a89-b09023c03a08" name="Changes" comment="Auth UI">
+    <list default="true" id="db9faff2-abea-42cc-9a89-b09023c03a08" name="Changes" comment="Add ImageUpload components">
       <change afterPath="$PROJECT_DIR$/app/api/auth/imagekit/route.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -106,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736589030629</updated>
-      <workItem from="1736589031764" duration="19191000" />
+      <workItem from="1736589031764" duration="19523000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <option name="closed" value="true" />
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736602280063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add ImageUpload components">
+      <option name="closed" value="true" />
+      <created>1736685882389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736685882389</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +150,7 @@
     <MESSAGE value="start project" />
     <MESSAGE value="Home page" />
     <MESSAGE value="Auth UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Auth UI" />
+    <MESSAGE value="Add ImageUpload components" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ImageUpload components" />
   </component>
 </project>
