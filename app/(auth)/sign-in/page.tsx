@@ -3,9 +3,9 @@
 import AuthForm from "@/components/AuthForm";
 import { singInSchema } from "@/lib/validations";
 
-const SingInPage = () => (
+const Page = () => (
   <AuthForm
-    type="SING_IN"
+    type="SIGN_IN"
     schema={singInSchema}
     defaultValues={{
       email: "",
@@ -14,4 +14,4 @@ const SingInPage = () => (
     onSubmit={() => {}}
   />
 );
-export default SingInPage;
+export default Page;

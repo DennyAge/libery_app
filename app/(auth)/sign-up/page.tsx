@@ -3,9 +3,9 @@
 import AuthForm from "@/components/AuthForm";
 import { singUpSchema } from "@/lib/validations";
 
-const SingUpPage = () => (
+const Page = () => (
   <AuthForm
-    type="SING_UP"
+    type="SIGN_UP"
     schema={singUpSchema}
     defaultValues={{
       email: "",
@@ -17,4 +17,4 @@ const SingUpPage = () => (
     onSubmit={() => {}}
   />
 );
-export default SingUpPage;
+export default Page;
