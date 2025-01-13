@@ -8,6 +8,8 @@ import { signIn } from "@/auth";
 import {headers} from "next/headers";
 import ratelimit from "@/lib/ratelimit";
 import {redirect} from "next/navigation";
+import {workflowClient} from "@/lib/workflow";
+import config from "@/lib/config";
 
 export const singInWithCredentials = async (
     params: Pick<AuthCredentials, "email" | "password">
@@ -64,6 +66,16 @@ export const signUp = async (params: AuthCredentials) => {
             universityCard,
             universityId
         })
+
+        await workflowClient.trigger({
+            url: `${config.env.prodApiEndpoint}/api/workflow/onboarding`,
+            body: {
+                email,
+                fullName,
+            }
+
+        })
+
         await singInWithCredentials({email, password})
 
         return {success: true};
