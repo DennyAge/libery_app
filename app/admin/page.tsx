@@ -1,8 +1,4 @@
-import React from 'react'
-
 const Page = () => {
-    return (
-        <div>Page</div>
-    )
-}
-export default Page
+  return <div>Admin Page</div>;
+};
+export default Page;

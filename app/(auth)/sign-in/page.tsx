@@ -2,7 +2,7 @@
 
 import AuthForm from "@/components/AuthForm";
 import { singInSchema } from "@/lib/validations";
-import {singInWithCredentials} from "@/lib/actions/auth";
+import { singInWithCredentials } from "@/lib/actions/auth";
 
 const Page = () => (
   <AuthForm
